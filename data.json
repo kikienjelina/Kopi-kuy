@@ -1,0 +1,99 @@
+{
+         "arabica": [
+          
+           {
+             "foto": "https://mesra.luberta.com/wp-content/uploads/sites/46/2014/02/Kopi-Hitam.jpg",
+             "nama": "Arabica Hitam Wow",
+             "size": "500 Gram",
+             "harga": "80.000",
+             "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+               },
+            {
+             "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CfcPjw1dLqV77ibX-lPz6HlJFhpUgerEaw&usqp=CAU",
+             "nama": "Arabica Kenangan",
+             "size": "550 Gram",
+             "harga": "90.000",
+             "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+               },
+           {
+             "foto": "images/produk/product_capuchino.jpg",
+             "nama": "Cappuccino Arabica",
+             "size": "500 Gram",
+             "harga": "200.000",
+             "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+               },
+           {
+             "foto": "images/produk/product_espresso.jpg",
+             "nama": "Pahit Arabica",
+             "size": "100 Gram",
+             "harga": "100.000",
+             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+               },
+           {
+             "foto": "images/produk/product_latte.jpg",
+             "nama": "Latte Arabica",
+             "size": "150 Gram",
+             "harga": "150.000",
+             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+               }
+           ],
+         "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSacw1pluw4ljdPrHQkrtyTCvu-AYtpaGEzmg&usqp=CAU",
+            "nama": "Caramel Robusta",
+            "size": "200 Gram",
+            "harga": "700.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmHcFaNannkDNF6QZr564gGYTsiDpkWd15Gw&usqp=CAU",
+            "nama": "Dalgona Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+          },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGEfzCg1vnOmyH_1TE9Y7Nr2WXzVBkcUhQVQ&usqp=CAU",
+            "nama": "Boba Mix Robusta",
+            "size": "200 Gram",
+            "harga": "700.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ABa0DHVKm23sbxDkShi_NI9wOKyjztYaFA&usqp=CAU",
+            "nama": "Luwak Robusta",
+            "size": "500 Gram",
+            "harga": "900.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+              ],
+         "ice coffee": [
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR1DtLak8CGF7FgkSEz8-bzJ7mfh2CFRYJmg&usqp=CAU",
+            "nama": "Nutella Ice Coffee",
+            "size": "100 Gram",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {   "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtPUTpzUv1oQerCAzf0dwv5lD2SMEHne_08Q&usqp=CAU",
+            "nama": "Nutella Ice Coffee",
+            "size": "100 Gram",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+}
